@@ -63,12 +63,6 @@ Here are some ideas to get you started:
 
 ## Profile
 
-- 이름: 이경헌
-  <br/>
-
-- 생년월일: 1994.06.16
-  <br/>
-
 - E-mail: khunlee0508@gmail.com
   <br/>
 
