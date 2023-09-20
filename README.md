@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 
 | 사진                                                                                                                                                                 | 설명                                              | 링크                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project/raw/master/img/%EC%95%B1_%EC%B4%88%EA%B8%B0.png?raw=true" width="100" height="150"/> | 모바일 앱 이용으로 버섯을 자동으로 재배해주는 IoT | [링크](https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project) |
+| <img src="https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project/raw/master/img/%EC%95%B1_%EC%B4%88%EA%B8%B0.png?raw=true" width="110" height="180"/> | 모바일 앱 이용으로 버섯을 자동으로 재배해주는 IoT | [링크](https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project) |
 
 <br/>
 
@@ -162,17 +162,17 @@ Here are some ideas to get you started:
 
 ### 검색 앱 토이 프로젝트
 
-| 사진                                                                                                                                | 설명                                                                   | 링크                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------ |
-| <img src="https://github.com/BOLTB0X/SearchAPI_Toy/raw/main/gif/01/vclip%EA%B2%80%EC%83%89.gif?raw=true" width="110" height="180"/> | daum 검색 API를 활용하여 URLSession, Combine 학습을 위한 토이 프로젝트 | [링크](https://github.com/BOLTB0X/SearchAPI_Toy) |
+| 사진                                                                                                                                | 설명                                                                                   | 링크                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| <img src="https://github.com/BOLTB0X/SearchAPI_Toy/raw/main/gif/01/vclip%EA%B2%80%EC%83%89.gif?raw=true" width="110" height="180"/> | daum 검색 API를 활용하여 MVVM 패턴 적용, URLSession, Combine 학습을 위한 토이 프로젝트 | [링크](https://github.com/BOLTB0X/SearchAPI_Toy) |
 
 <br/>
 
 ### 뉴스 앱 토이 프로젝트
 
-| 사진                                                                                                                                                 | 설명                                                                                             | 링크                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| <img src="https://github.com/BOLTB0X/NewsAPIToyProject/raw/main/02gif/%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B82.gif?raw=true" width="110" height="180"/> | 공식 SwiftUI 튜토리얼 UI에 News API data를 담아 보고 동시성 프로그래밍 학습을 위한 토이 프로젝트 | [링크](https://github.com/BOLTB0X/NewsAPIToyProject/tree/main/newsAPIToy02) |
+| 사진                                                                                                                                                 | 설명                                                                                                          | 링크                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <img src="https://github.com/BOLTB0X/NewsAPIToyProject/raw/main/02gif/%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B82.gif?raw=true" width="110" height="180"/> | 공식 SwiftUI 튜토리얼 landMark앱의 UI에 News API data를 담아 보고 동시성 프로그래밍 학습을 위한 토이 프로젝트 | [링크](https://github.com/BOLTB0X/NewsAPIToyProject/tree/main/newsAPIToy02) |
 
 ### Study
 
