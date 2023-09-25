@@ -52,22 +52,13 @@ Here are some ideas to get you started:
 <br/>
 
 ```
-차량 임베디드 개발자 출신으로 iOS 개발자를 목표로 하고 있습니다 🔥🔥
-
-동시성 프로그래밍에 관심이 많습니다! 😄
-
-활용 가능한 기술 스택은 SwiftUI, UIKit, Combine 입니다!
+임베디드, iOS에 관심이 많습니다! 🔥🔥🔥🔥🔥🔥
 ```
 
 </p>
 
-## Profile
-
-- E-mail: khunlee0508@gmail.com
-  <br/>
-
-- 최종학력: 세종대학교 전자정보통신공학 학사
-  <br/>
+<details>
+<summary>클릭</summary>
 
 ## Work experience
 
@@ -138,9 +129,8 @@ Here are some ideas to get you started:
 - 동영상플랫폼 프로젝트 Android 앱 파트 테스트 참여
   - 개발언어: Kotlin
   - 규모: 외주 개발
-  - 세부 내용
-    - 개발환경: Android Studio, coroutine
-    - 테스트 작업 및 문서 작성
+  - 세부 내용 - 개발환경: Android Studio, coroutine - 테스트 작업 및 문서 작성
+  </details>
 
 ## Project
 
