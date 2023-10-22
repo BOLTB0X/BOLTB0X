@@ -51,10 +51,11 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
+<!--
 ```
 임베디드, iOS에 관심이 많습니다! 🔥🔥🔥🔥🔥🔥
 ```
-
+-->
 </p>
 
 <details>
