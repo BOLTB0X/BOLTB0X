@@ -159,6 +159,12 @@ Here are some ideas to get you started:
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | <img src="https://github.com/BOLTB0X/NewsAPIToyProject/raw/main/02gif/%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B82.gif?raw=true" width="110" height="180"/> | 공식 SwiftUI 튜토리얼 landMark앱의 UI에 News API data를 담아 보고 동시성 프로그래밍 학습을 위한 토이 프로젝트 | [링크](https://github.com/BOLTB0X/NewsAPIToyProject/tree/main/newsAPIToy02) |
 
+### 크로스핏 전용 WOD 타이머 앱
+
+| 사진                                                                                                                                                 | 설명                                                                                                          | 링크                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <img src="https://github.com/BOLTB0X/WOD-Timer-app/raw/main/history/%EB%94%94%ED%85%8C%EC%9D%BC%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98.gif?raw=true" width="110" height="180"/> | 크로스핏 전용 WOD의 세부적인 사항을 셋팅하고 이용할 수 있는 타이머앱 | [링크](https://github.com/BOLTB0X/WOD-Timer-app) |
+
 ### Study
 
 | 사진                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 설명                                    | 링크                                                       |
@@ -167,4 +173,6 @@ Here are some ideas to get you started:
 | <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="110" height="100"/>                                                                                                                     | SwiftUI 낙서장                   | [링크](https://github.com/BOLTB0X/SwiftUI) |
 | <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="110" height="100"/>                                                                                                                     | UIKit 낙서장                   | [링크](https://github.com/BOLTB0X/UIkit) |
 | <img src="https://velog.velcdn.com/images%2Flarsien%2Fpost%2F80e42663-662b-4eb8-bbc8-b0c2a9f25357%2Ftest1.jpg" width="110" height="100"/>                                                                                                                     | 알고리즘 정리 및 연습                   | [링크](https://github.com/BOLTB0X/DataStructure_Argolithm) |
+| <img src="https://developer.apple.com/assets/elements/icons/maps/maps-128x128_2x.png" width="110" height="100"/>                                                                                                                     | MapKit 낙서장                   | [링크](https://github.com/BOLTB0X/ScratchPaper_Map_in_iOS/tree/main) |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJexNH4qlhrEqhywRgkZS67uKaL5ZtVzybA&s" width="110" height="100"/>                                                                                                                     | Metal API 낙서장                   | [링크](https://github.com/BOLTB0X/Metal-API) |
 <br/>
