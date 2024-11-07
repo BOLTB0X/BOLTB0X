@@ -98,10 +98,9 @@ Here are some ideas to get you started:
 
 | 사진                                                                                                                                                                                                                                              | 프로젝트 링크                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://developer.apple.com/assets/elements/icons/swift-playgrounds/swift-playgrounds-96x96_2x.png" width="110" height="100"/>  | [Swift 문법 및 기본 다지기](https://github.com/BOLTB0X/Swift_Study) |
+| <img src="https://www.pngitem.com/pimgs/m/355-3559358_c-and-c-logo-hd-png-download.png" width="110" height="100"/>  | [C/C++ Study](https://github.com/BOLTB0X/c-cpp-study) |
+| <img src="https://developer.apple.com/assets/elements/icons/swift-playgrounds/swift-playgrounds-96x96_2x.png" width="110" height="100"/>  | [Swift Study](https://github.com/BOLTB0X/Swift_Study) |
 | <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="110" height="100"/>  | [SwiftUI 학습 낙서장](https://github.com/BOLTB0X/SwiftUI) |
 | <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="110" height="100"/>  | [UIKit 학습 낙서장](https://github.com/BOLTB0X/UIkit) |
-| <img src="https://developer.apple.com/assets/elements/icons/maps/maps-128x128_2x.png" width="110" height="100"/>  | [MapKit 학습 낙서장](https://github.com/BOLTB0X/ScratchPaper_Map_in_iOS/tree/main) |
-| <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" width="110" height="100"/>  | [Metal API 학습 낙서장](https://github.com/BOLTB0X/Metal-API) |
 | <img src="https://t4.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/21n9/image/8WGiZyIhJcka7nkc3Mou-LK1Ud0.gif" width="110" height="100"/>  | [자료구조 및 알고리즘 정리](https://github.com/BOLTB0X/DataStructure-Algorithm) |
 
