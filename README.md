@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 -->
 
 # BOLTB0X
+<p align="center">
+🔧 Embedded · 📱 iOS  · 🎮 Rendering
+</p>
 
-<br/>
 <p align="center">
 <a href="https://developer.apple.com/kr/swift/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 </a>
+  
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=C&logoColor=white" />
 </a>
@@ -43,59 +46,179 @@ Here are some ideas to get you started:
 <a href="https://visualstudio.microsoft.com/ko/downloads/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Visual%20Studio-%23B57EDC?style=flat&logo=Visual%20Studio&logoColor=white" />
 </a>
-<br/>
+<a href="https://code.visualstudio.com/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
+</a>
+<a href="https://www.nxp.com/design/software/development-software/s32-design-studio-ide:DESIGN-STUDIO" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/NXP%20Design%20Studio-008A00?style=flat&logo=nxp&logoColor=white" />
+</a>
 
-<!--
-```
-임베디드, iOS에 관심이 많습니다! 🔥🔥🔥🔥🔥🔥
-```
--->
 </p>
 
+## Project & Toy
 
+### 임베디드 · IoT: [버섯자동재배 IoT](https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project)
 
-## Project
+<p align="center">
+  <table style="width:100%; text-align:center; border-spacing:20px;">
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project/raw/master/img/%EC%95%B1_%EC%B4%88%EA%B8%B0.png?raw=true" 
+             alt="image 1" 
+             style="width:200px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project/raw/master/img/%EC%8B%A4%EC%A0%9C%20%ED%9A%8C%EB%A1%9C%EB%8F%84.jpeg?raw=true" 
+             alt="image 2" 
+             style="width:200px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project/raw/master/img/LCD_%EC%98%A8%EC%8A%B5%EB%8F%84_%ED%91%9C%EC%8B%9C.jpeg?raw=true" 
+             alt="image 2" 
+             style="width:200px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      App
+      </p>
+      </td>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      외관 1
+      </p>
+      </td>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      외관 2
+      </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 버섯자동재배 IoT
+### iOS
 
-| 사진                                                                                                                                                                 | 프로젝트 링크                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project/raw/master/img/%EC%95%B1_%EC%B4%88%EA%B8%B0.png?raw=true" width="110" height="180"/> | [모바일 앱을 이용한 버섯자동재배 IoT](https://github.com/BOLTB0X/Automatic-Mushroom-cultivation-IOT-project) |
+<p align="center">
+  <table style="width:100%; text-align:center; border-spacing:20px;">
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/WOD-Timer-app/raw/main/history/detail_%ED%83%80%EC%9D%B4%EB%A8%B8.gif?raw=true" 
+             alt="image 1" 
+             style="width:150px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/SearchAPI_Toy/raw/main/gif/01/vclip%EA%B2%80%EC%83%89.gif?raw=true" 
+             alt="image 2" 
+             style="width:150px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/NewsAPIToyProject/raw/main/02gif/%EC%95%B1%20%EB%9F%B0%EC%B9%98%EC%8A%A4%ED%81%AC%EB%A6%B0.gif?raw=true" 
+             alt="image 2" 
+             style="width:150px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://github.com/BOLTB0X/Photos-framework/raw/main/gif/Zoom.gif?raw=true" 
+             alt="image 2" 
+             style="width:150px; height:300px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      <a href="https://github.com/BOLTB0X/WOD-Timer-app">크로스핏 전용 타이머&스톱워치</a>
+      </p>
+      </td>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      <a href="https://github.com/BOLTB0X/SearchAPI_Toy">daum 검색 REST API Toy</a>
+      </p>
+      </td>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      <a href="https://github.com/BOLTB0X/NewsAPIToyProject/tree/main/newsAPIToy02">News REST API Toy</a>
+      </p>
+      </td>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      <a href="https://github.com/BOLTB0X/Photos-framework">Photos Clone</a>
+      </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<br/>
+### Rendering
 
-## Toy Project & Study
+<p align="center">
+  <table style="width:100%; text-align:center; border-spacing:20px;">
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://camo.githubusercontent.com/f7dd5cb4ed345827641d5d2b664d25c42e7aa203dc43df6a337f4f19ac635022/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f6d6574616c2f6d6574616c2d39367839365f32782e706e67" 
+             alt="image 1" 
+             style="width:200px; height:200px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+      <td style="text-align:center; vertical-align:middle;">
+        <p align="center">
+        <img src="https://camo.githubusercontent.com/76125352737fceb0afa350d82d303964374fcd6891b2f90778c224766426ac0f/68747470733a2f2f6c6561726e6f70656e676c2e636f6d2f696d672f67657474696e672d737461727465642f6f70656e676c2e6a7067" 
+             alt="image 2" 
+             style="width:200px; height:200px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      <a href="https://github.com/BOLTB0X/Metal-API">Metal-API Study</a>
+      </p>
+      </td>
+      <td style="text-align:center; font-size:14px; font-weight:bold;">
+      <p align="center">
+      <a href="https://github.com/BOLTB0X/OpenGL-Study">OpenGL Study</a>
+      </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 검색 앱 토이 프로젝트
+## Study
 
-| 사진                                                                                                                                | 프로젝트 링크                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/BOLTB0X/SearchAPI_Toy/raw/main/gif/01/vclip%EA%B2%80%EC%83%89.gif?raw=true" width="110" height="180"/> | [daum 검색 API를 활용한 MVVM 패턴 적용](https://github.com/BOLTB0X/SearchAPI_Toy) |
+- **Languages**
 
-<br/>
+   - [C/C++ Study](https://github.com/BOLTB0X/c-cpp-study)
+ 
+   - [Swift Study](https://github.com/BOLTB0X/Swift_Study)
 
-### 뉴스 앱 토이 프로젝트
+- **Framework**
 
-| 사진                                                                                                                                                 | 프로젝트 링크                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/BOLTB0X/NewsAPIToyProject/raw/main/02gif/%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B82.gif?raw=true" width="110" height="180"/> | [뉴스 API를 활용한 SwiftUI 동시성 프로그래밍 학습](https://github.com/BOLTB0X/NewsAPIToyProject/tree/main/newsAPIToy02) |
+   - [Combine](https://github.com/BOLTB0X/Combine)
+     
+   - [MapKit](https://github.com/BOLTB0X/MapKit-iOS)
+     
+   - [Core-Animation](https://github.com/BOLTB0X/Core-Animation)
 
-<br/>
+- **etc**
 
-### 크로스핏 전용 WOD 타이머 앱
+  - [자료구조 및 알고리즘](https://github.com/BOLTB0X/DataStructure-Algorithm)
+    
+  - [Linux](https://github.com/BOLTB0X/Linux-Study)
+ 
 
-| 사진                                                                                                                                                 | 프로젝트 링크                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/BOLTB0X/WOD-Timer-app/raw/main/history/%EB%94%94%ED%85%8C%EC%9D%BC%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98.gif?raw=true" width="110" height="180"/> | [크로스핏 전용 WOD 타이머 앱](https://github.com/BOLTB0X/WOD-Timer-app) |
-
-### Study
-
-| 사진                                                                                                                                                                                                                                              | 프로젝트 링크                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.pngitem.com/pimgs/m/355-3559358_c-and-c-logo-hd-png-download.png" width="110" height="100"/>  | [C/C++ Study](https://github.com/BOLTB0X/c-cpp-study) |
-| <img src="https://developer.apple.com/assets/elements/icons/swift-playgrounds/swift-playgrounds-96x96_2x.png" width="110" height="100"/>  | [Swift Study](https://github.com/BOLTB0X/Swift_Study) |
-| <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="110" height="100"/>  | [SwiftUI 학습 낙서장](https://github.com/BOLTB0X/SwiftUI) |
-| <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="110" height="100"/>  | [UIKit 학습 낙서장](https://github.com/BOLTB0X/UIkit) |
-| <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" width="110" height="100"/>  | [Metal 학습 낙서장]([https://github.com/BOLTB0X/UIkit](https://github.com/BOLTB0X/Metal-API)) |
-| <img src="https://t4.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/21n9/image/8WGiZyIhJcka7nkc3Mou-LK1Ud0.gif" width="110" height="100"/>  | [자료구조 및 알고리즘 정리](https://github.com/BOLTB0X/DataStructure-Algorithm) |
 
