@@ -170,16 +170,16 @@ Here are some ideas to get you started:
     <tr>
       <td style="text-align:center; vertical-align:middle;">
         <p align="center">
-        <img src="https://camo.githubusercontent.com/f7dd5cb4ed345827641d5d2b664d25c42e7aa203dc43df6a337f4f19ac635022/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f6d6574616c2f6d6574616c2d39367839365f32782e706e67" 
+        <img src="https://github.com/BOLTB0X/Metal-API/blob/main/img/sponza%20%EC%88%98%EC%A0%951.png?raw=true" 
              alt="image 1" 
-             style="width:200px; height:200px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+             style="width:200px; height:400px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
         </p>
       </td>
       <td style="text-align:center; vertical-align:middle;">
         <p align="center">
-        <img src="https://camo.githubusercontent.com/76125352737fceb0afa350d82d303964374fcd6891b2f90778c224766426ac0f/68747470733a2f2f6c6561726e6f70656e676c2e636f6d2f696d672f67657474696e672d737461727465642f6f70656e676c2e6a7067" 
+        <img src="https://github.com/BOLTB0X/OpenGL-Study/blob/main/Img/Amoghasiddhi-light.gif?raw=true" 
              alt="image 2" 
-             style="width:200px; height:200px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
+             style="width:300px; height:200px; object-fit:contain; border:1px solid #ddd; border-radius:4px;"/>
         </p>
       </td>
     </tr>
