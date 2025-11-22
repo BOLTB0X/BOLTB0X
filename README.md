@@ -198,7 +198,7 @@ Here are some ideas to get you started:
   </table>
 </p>
 
-### Flutter (Android)
+### Full Stack
 
 <p align="center">
   <table style="width:100%; text-align:center; border-spacing:20px;">
