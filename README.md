@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 
 # BOLTB0X
+
+<!--
 <p align="center">
 🔧 Embedded · 📱 iOS  · 🎮 Rendering
 </p>
@@ -267,5 +269,5 @@ Here are some ideas to get you started:
     
   - [Linux](https://github.com/BOLTB0X/Linux-Study)
  
-
+-->
 
