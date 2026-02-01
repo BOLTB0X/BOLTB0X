@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 # BOLTB0X
 
-![명상](https://preview.redd.it/just-an-appreciation-post-of-netero-one-of-the-characters-i-v0-yms94ax8un9a1.jpg?width=736&format=pjpg&auto=webp&s=455357d435e9b73a32cadd7f2ddac411ced8ad2d)
+<p align="center">
+  <img width="800" height="600" alt="감사합니다" src="https://github.com/user-attachments/assets/cffa74c5-203e-4d0b-8358-a7c22867820a" />
+</p>
+
 <!--
 <p align="center">
 🔧 Embedded · 📱 iOS  · 🎮 Rendering
