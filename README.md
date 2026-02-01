@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 # BOLTB0X
 
 <p align="center">
-  <img width="800" height="600" alt="감사합니다" src="https://github.com/user-attachments/assets/cffa74c5-203e-4d0b-8358-a7c22867820a" />
+  <img width="500" height="300" alt="감사합니다" src="https://github.com/user-attachments/assets/cffa74c5-203e-4d0b-8358-a7c22867820a" />
+  <br/>어서오세요! 감사합니다.
 </p>
+
 
 <!--
 <p align="center">
